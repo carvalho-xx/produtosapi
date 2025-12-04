@@ -78,5 +78,3 @@ http://localhost:8080
 **João Pedro Carvalho de Mesquita**
 
 🔗 LinkedIn: [https://www.linkedin.com/in/jpcarvalho42/](https://www.linkedin.com/in/jpcarvalho42/)
-
-📸 Instagram: [https://www.instagram.com/carvs_27/](https://www.instagram.com/carvs_27/)
